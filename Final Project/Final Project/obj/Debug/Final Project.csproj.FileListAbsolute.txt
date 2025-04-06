@@ -1,0 +1,15 @@
+C:\Users\saekd\source\repos\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\saekd\source\repos\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\saekd\source\repos\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\saekd\source\repos\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\saekd\source\repos\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\saekd\source\repos\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\saekd\source\repos\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\saekd\source\repos\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\saekd\source\repos\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\saekd\source\repos\Final Project\Final Project\obj\Debug\Final_Project.MainScreen.resources
+C:\Users\saekd\source\repos\Final Project\Final Project\obj\Debug\WindowsFormsApp1.FictionSelector.resources
+C:\Users\saekd\source\repos\Final Project\Final Project\obj\Debug\Final_Project.DisplayForm.resources
+C:\Users\saekd\source\repos\Final Project\Final Project\obj\Debug\history_books.HistorySelector.resources
+C:\Users\saekd\source\repos\Final Project\Final Project\obj\Debug\Study_book_form.StudySelector.resources
+C:\Users\saekd\source\repos\Final Project\Final Project\obj\Debug\Final_Project.Secret.resources
